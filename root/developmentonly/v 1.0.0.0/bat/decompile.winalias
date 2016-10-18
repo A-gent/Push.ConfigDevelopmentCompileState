@@ -1,0 +1,1 @@
+for /r %%x in (*.cfg,*.txt) do ren "%%x" *.proto
